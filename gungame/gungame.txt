@@ -1,0 +1,11 @@
+"hexteriagungame"
+{
+	"base"		"base"
+	"title"		"???"
+	"maps"		"^bg_"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
