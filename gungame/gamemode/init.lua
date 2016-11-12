@@ -1,5 +1,5 @@
 --[[--------------------------------------------
-Author: Bman
+Author: Hamza Saleem
 Description: Gun Game gamemode for Gary's Mod.
 Version: 1.0.0
 Website: forums.hexteria.com
